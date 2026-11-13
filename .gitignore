@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+# Reportes generados al usar la app
+data/reporte_*.json
+reports/

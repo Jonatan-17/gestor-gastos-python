@@ -58,6 +58,7 @@ def reporte_detallado(fecha_inicio, fecha_fin, categoria=None):
     }
     
     archivo_salida = "reports/reporte_detallado_gastos.json"
+    os.makedirs("reports", exist_ok=True)
     
     try:
         with open(archivo_salida, "w", encoding="utf-8") as f:

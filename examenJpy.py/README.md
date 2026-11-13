@@ -1,2 +1,0 @@
-# proyecto_pythonJonatanDavid
-# proyecto_pythonJonatanDavid
